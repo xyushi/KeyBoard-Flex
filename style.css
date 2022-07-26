@@ -55,4 +55,4 @@ sup, sub { outline:1px solid magenta; display:block; align-self:center; }
 .two { flex:2; } 
 .two-two-half { flex:2.5; } 
 .three { flex:3; } 
-.five { flex:5; }
+.five { width: 500px; }
